@@ -1,0 +1,12 @@
+thead{
+	background-color: skyblue;
+	font-family: Ariel;
+}
+
+td{
+	font-style: Italic;
+}
+
+th{
+	background-color: lightskyblue;
+}
